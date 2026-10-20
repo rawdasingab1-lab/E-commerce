@@ -35,7 +35,6 @@ body .btn-white {
   transition: all 0.3s ease;
   &:hover {
     background-color: var(--color-dark-blue) !important;
-    transform: scaleX(1.1);
     color: var(--color-clear-white) !important;
   }
 }
